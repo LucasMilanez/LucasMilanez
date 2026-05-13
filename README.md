@@ -8,7 +8,7 @@
   ## Stack
 
   **Backend** · Python · FastAPI · Flask · Django · Pydantic · SQLAlchemy
-  **Database** · PostgreSQL · SQLite · MySQL · pgvector
+  **Database** · PostgreSQL · SQLite · SQLServer · pgvector
   **DevOps** · Docker · Vercel · GitHub Actions · Linux
   **Data** · Pandas · NumPy · Power BI · Tableau
 
