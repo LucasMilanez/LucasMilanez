@@ -1,5 +1,5 @@
   # Lucas Milanez                                                                                                                                                                                                                                                                           
-  Python backend developer building APIs and internal tooling for non-technical teams.
+  Python backend developer · MCP servers & AI integrations · FastAPI, PostgreSQL, SQLServer.
                                                                                                                                               
   Guimarães, Portugal · [lanez.pt](https://lanez.pt) · [LinkedIn](https://linkedin.com/in/lucas--milanez)                                     
 
