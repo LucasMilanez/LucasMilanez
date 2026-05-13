@@ -1,4 +1,6 @@
-Python backend developer · MCP servers & AI integrations · FastAPI, PostgreSQL, SQL Server                                                     
+  # Lucas Milanez
+  
+  Python backend developer · MCP servers & AI integrations · FastAPI, PostgreSQL, SQL Server                                                     
   Guimarães, Portugal · [lanez.pt](https://lanez.pt) · [LinkedIn](https://linkedin.com/in/lucas--milanez)                                                       
   ---
 
