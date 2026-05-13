@@ -24,7 +24,7 @@
 
   `FastAPI` `PostgreSQL` `pgvector` `Redis` `React 19` `Docker` `Anthropic API`
 
-  → [lanez.pt](https://lanez.pt)
+  → [lanez.pt](https://lanez.vercel.app)
 
   ---
 
