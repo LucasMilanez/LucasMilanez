@@ -26,7 +26,7 @@ Analytics pipeline with session deduplication, funnel tracking, GDPR-compliant d
 
 `Python` `PostgreSQL` `ETL/ELT` `Docker` `REST APIs` `Stripe`
 
-### [Lanez](https://github.com/LucasMilanez) — MCP server for Microsoft 365
+### [Lanez](https://github.com/LucasMilanez/Lanez) — MCP server for Microsoft 365
 
 Self-hosted server that connects AI assistants (Claude, Cursor) to your Microsoft 365 data — calendar, emails, OneNote, OneDrive — with semantic search, persistent memory, and automatic meeting briefings.
 
@@ -49,5 +49,5 @@ Data pipelines in Python (pandas) consolidating land-registry data from multiple
 
 ## Education
 
-- B.S. Software Engineering · UNOPAR (in progress)
+- B.S. Software Engineering · UNOPAR 
 - Data Engineering · Data Science Academy (in progress)
